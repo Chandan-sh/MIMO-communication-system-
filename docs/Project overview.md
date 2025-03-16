@@ -31,9 +31,19 @@ MIMO technology is widely used in various wireless communication systems, includ
 
    [**RANDOMLY GENERATED BINARY DATA IS USED AS INPUT DATA IN ATTACHED FILE**]
 
+### Key Observations:
 
-The analysis of the simulation results demonstrates the significant advantages of MIMO communication systems in terms of data rate, reliability, and spectral efficiency. MIMO technology is a key enabler for modern wireless communication systems, offering substantial improvements over traditional SISO systems. However, the complexity and hardware requirements present challenges that need to be addressed through advanced algorithms and efficient design. The results of this project provide valuable insights into the performance of MIMO systems and highlight the potential for further research and development in this field.
+1. **BER Decrease with Increasing SNR**: As the SNR increases from -2 dB to 14 dB, the BER decreases significantly. This is expected because a higher SNR indicates a stronger signal relative to noise, leading to fewer errors in data transmission.
 
+2. **Performance at Low SNR**: At low SNR values (e.g., -2 dB to 0 dB), the BER is relatively high (around \(10^{-1}\)). This suggests that the system struggles to maintain reliable communication in noisy conditions.
+
+3. **Performance at High SNR**: As the SNR increases beyond 6 dB, the BER drops sharply, reaching values around \(10^{-2}\) at 14 dB. This indicates that the system performs well in high SNR conditions, with a lower probability of bit errors.
+
+4. **Zero Forcing Limitations**: The Zero Forcing technique, while simple and effective in high SNR environments, can amplify noise, which is particularly evident at lower SNR values. This is why the BER is higher at low SNR compared to more advanced detection techniques like Minimum Mean Square Error (MMSE).
+
+### Conclusion:
+
+The graph demonstrates the effectiveness of the Zero Forcing technique in a 2x2 MIMO system under varying SNR conditions. While it performs well in high SNR scenarios, its performance degrades in low SNR environments due to noise amplification. This analysis can help in understanding the trade-offs and choosing appropriate detection techniques based on the expected operating conditions of the MIMO system.
 
 
 ## References
