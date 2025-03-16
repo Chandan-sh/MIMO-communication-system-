@@ -62,6 +62,8 @@ cd MIMO-Communication-System
 
 Run the simulation script using Python:
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
+
 ```bash
 python src/simulation.py
 ```
