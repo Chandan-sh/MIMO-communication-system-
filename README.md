@@ -84,7 +84,7 @@ Detailed documentation for the project can be found in the `docs/` folder. This 
 
 ## Results
 
-Simulation results, including Bit Error Rate (BER) vs. Signal-to-Noise Ratio (SNR) plots, spectral efficiency comparisons, and diversity gain analysis, can be found in the `results/` folder. These results help in understanding the performance improvements achieved by using MIMO technology.
+Simulation results, including Bit Error Rate (BER) vs. Signal-to-Noise Ratio (SNR) plots, spectral efficiency comparisons, and diversity gain analysis, can be found in the project overview file of `docs/`. These results help in understanding the performance improvements achieved by using MIMO technology.
 
 ## License
 
