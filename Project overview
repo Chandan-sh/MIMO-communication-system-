@@ -1,0 +1,19 @@
+# Project Overview
+
+## Objective
+
+Design and simulate a MIMO communication system to analyze its performance in terms of data rate, reliability, and spectral efficiency.
+
+## Applications
+
+- 5G
+- Wi-Fi (802.11n/ac)
+- LTE
+- Other wireless communication systems
+
+## Key Concepts
+
+- Spatial multiplexing
+- Diversity
+- Beamforming
+- Channel modeling
