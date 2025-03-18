@@ -62,8 +62,10 @@ This project was developed with the help of various resources and references. Be
    - Matplotlib Library for plotting: [Matplotlib Documentation](https://matplotlib.org/stable/users/index.html)
 
 3. **Research Articles**
-   - Foschini, Gerard J., and Michael J. Gans. "On limits of wireless communications in a fading environment when using multiple antennas." *Wireless personal communications* 6.3 (1998): 311-335.
-   - Alamouti, Siavash M. "A simple transmit diversity technique for wireless communications." *IEEE Journal on selected areas in communications* 16.8 (1998): 1451-1458.
+   - [Foschini, Gerard J., and Michael J. Gans. "On limits of wireless communications in a fading environment when using multiple antennas."](https://link.springer.com/article/10.1023/A%3A1008889222784) *Wireless Personal Communications* 6.3 (1998): 311-335.
+   
+   - [Alamouti, Siavash M. "A simple transmit diversity technique for wireless communications."](https://www.ece.tufts.edu/ee/108/alamouti.pdf) *IEEE Journal on Selected Areas in Communications* 16.8 (1998): 1451-1458.
+   
 
 4. **Code and Libraries**
    - Example MIMO simulation codes and tutorials available on GitHub and other coding platforms.
