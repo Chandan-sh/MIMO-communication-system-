@@ -94,8 +94,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 
-This project was inspired by the need for efficient wireless communication systems and the advancements in MIMO technology. Special thanks to the contributors and the open-source community for their support.
-
+This project was inspired by the need for efficient wireless communication systems and the advancements in MIMO technology.
 ## Contact
 
 For any questions or suggestions, please contact: [chandansh2005@gmail.com](mailto:chandansh2005@gmail.com)
