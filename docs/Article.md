@@ -323,3 +323,36 @@ The convergence of MIMO with **quantum communications**, **molecular networks**,
 5. E. G. Larsson et al., "Massive MIMO for Next Generation Wireless Systems," *IEEE Communications Magazine*, vol. 52, no. 2, pp. 186-195, 2014.
 
 ---
+### Topics chosen from Base book and papers
+
+**Fundamentals of Wireless Communication** by David Tse and Pramod Viswanath
+
+This book is referenced for foundational concepts and theories related to MIMO technology, including:
+
+1. Fundamentals of MIMO
+2. MIMO Techniques
+3. Advanced Signal Processing in MIMO
+4. Performance Analysis of MIMO
+5. Applications of MIMO
+6. Challenges and Future Directions
+
+---
+
+### Base Papers:
+
+#### Base paper-1
+
+Specific topics covered:
+
+1. Evolution of MIMO technology
+2. Mathematical models and system representation
+3. Case studies and real-world implementations
+4. Applications in modern wireless systems such as 4G, 5G, and beyond
+
+#### Base paper-2
+
+1. Specific topics covered:
+2. Advanced signal processing techniques in MIMO
+3. Performance analysis including capacity analysis, BER vs. SNR, and power allocation
+4. Future research directions and emerging applications
+5. Integration of AI and machine learning in MIMO systems
